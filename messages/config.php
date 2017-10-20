@@ -41,7 +41,6 @@ return [
         '/migrations',
         '/tests',
         '/runtime',
-        '/vendor',
         '/web',
         '/webstub',
     ],
